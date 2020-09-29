@@ -203,9 +203,6 @@
                     <Source Name="MainSource">nick.toolsapi.shortcut.DelphiShortcutFinder.dpk</Source>
                 </Source>
                 <Excluded_Packages>
-                    <Excluded_Packages Name="C:\Program Files (x86)\Raize\RC6\Bin\RaizeComponentsVcl_Design230.bpl">File C:\Program Files (x86)\Raize\RC6\Bin\RaizeComponentsVcl_Design230.bpl not found</Excluded_Packages>
-                    <Excluded_Packages Name="C:\Program Files (x86)\Raize\RC6\Bin\RaizeComponentsVclDb_Design230.bpl">File C:\Program Files (x86)\Raize\RC6\Bin\RaizeComponentsVclDb_Design230.bpl not found</Excluded_Packages>
-                    <Excluded_Packages Name="C:\Program Files (x86)\Raize\RadiantShapes\Bin\RadiantShapesFmx_Design230.bpl">File C:\Program Files (x86)\Raize\RadiantShapes\Bin\RadiantShapesFmx_Design230.bpl not found</Excluded_Packages>
                     <Excluded_Packages Name="$(BDSBIN)\dcloffice2k230.bpl">Microsoft Office 2000 Sample Automation Server Wrapper Components</Excluded_Packages>
                     <Excluded_Packages Name="$(BDSBIN)\dclofficexp230.bpl">Microsoft Office XP Sample Automation Server Wrapper Components</Excluded_Packages>
                 </Excluded_Packages>
